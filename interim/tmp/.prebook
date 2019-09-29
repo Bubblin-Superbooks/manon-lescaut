@@ -1,22 +1,6 @@
 [
   {
-    "tag": "p",
-    "innerHtml": "E-text prepared by Timo Ervasti and Tapio Riikonen"
-  },
-  {
-    "tag": "h3",
-    "innerHtml": "Manon Lescaut"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Romaani"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Kirj."
-  },
-  {
-    "tag": "h5",
+    "tag": "h4",
     "innerHtml": "Antoine-françois Prévost"
   },
   {
@@ -3678,5 +3662,9 @@
   {
     "tag": "p",
     "innerHtml": "Vietimme yhdessä kaksi kuukautta Uudessa Orleansissa, odottaen Ranskan laivojen tuloa, ja päästyämme viimein matkaan, astuimme kaksi viikkoa sitten Havre-de-Grâcen rantaan. Sinne saavuttuamme lähetin kirjeen omaisilleni. Vanhemman veljeni vastauksesta sain surullisen tiedon isäni kuolemasta, johon syystä pelkään minun hairahdukseni osaltaan vaikuttaneen. Kun puhalsi myötäinen tuuli, astuin heti laivaan purjehtiakseni Calais'hen, aikoen sieltä matkustaa muutaman peninkulman päässä kaupungista asuvan ja meille sukua olevan aatelismiehen luo, missä veljeni kirjoitti odottavansa tuloani."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   }
 ]
